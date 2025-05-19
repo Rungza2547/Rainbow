@@ -1,5 +1,5 @@
-### 🌈 About me
-🏬- Hi, I’m currently a Software Tester Intern at Bangkok Bank and a student at Chiang Mai University, majoring in Modern Management and Information Technology. I live in Bangkok, Thailand. 
+### About me 🌈
+🏦- Hi, I’m currently a Software Tester Intern at Bangkok Bank and a student at Chiang Mai University, majoring in Modern Management and Information Technology. I live in Bangkok, Thailand. 
 
 ⛳- I have a strong passion for exploring science, technology, and finance. My key interests lie in machine learning, secure system design, and building efficient, scalable solutions—especially those that enhance the reliability and safety of financial platforms.
 
@@ -23,5 +23,5 @@ As part of my academic journey at Chiang Mai University, I have completed course
 
 * Python for Machine Learning _(with a focus on model development and practical application)_
 
-### Tech stack
+### Tech stack 💻 
 
