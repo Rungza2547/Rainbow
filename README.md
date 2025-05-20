@@ -103,37 +103,31 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rungza2547&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 
 
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aW55YW9yMmQzcnMzbjh3cDVvNXJ6YTJkdG56ZGhsbjl2ZDM1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3fNmJ20ErpkjK/giphy.gif"  />
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDE1aW55YW9yMmQzcnMzbjh3cDVvNXJ6YTJkdG56ZGhsbjl2ZDM1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZL2iRxhnDwtSE/giphy.gif"  />
 
-###
+### <div align="center"> [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) </div>
 
+<br clear="both">
 
-
-
-# snk
-
-[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
-[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
-[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
-![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
-
-
-<br align="center">
-<picture>
-  <source
+ <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
+ />
+ <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+ />
+ <img
     alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+ /> 
+  
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Rungza2547/count.svg?" />
+</div>
+
