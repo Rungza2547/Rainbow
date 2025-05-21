@@ -16,8 +16,8 @@
         align="center"
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Github-Dark.svg"
         alt="github-Rungza"
-        height="40"
-        width="50"
+        height="38"
+        width="45"
     /></a>
     <a href="https://www.linkedin.com/in/prapatson" target="blank">
     <img
@@ -25,7 +25,7 @@
         src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg"
         alt="LinkedIn-Rungza"
         height="30"
-        width="40"
+        width="45"
     /></a>
     <a href="https://www.facebook.com/prapatson.pikunthong.1?locale=th_TH" target="blank">
     <img
@@ -33,7 +33,7 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
         alt="fb-rung"
         height="30"
-        width="40"
+        width="45"
     /></a>
 </p>
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-## <p align="center"> About⚓ Me </p>
+## <p align="center"> About⚓ Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></p> 
 
 <p align="center">📖I’m currently studying at <strong>Chiang Mai University</strong> 📚</p>
 
