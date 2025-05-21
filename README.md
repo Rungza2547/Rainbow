@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Rung 🌌 </h1>
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> Hi, I'm Rung 🌌 </h1>
 
 <h3 align="center">Software Tester Internship at Bangkok Bank</h3>
 
@@ -10,7 +10,7 @@
 </p>
 
 <h3 align="center">Contact Me</h3>
-<p align="center">
+ <p align="center">
     <a href="https://github.com/Rungza2547" target="blank">
     <img
         align="center"
@@ -36,7 +36,11 @@
         width="40"
     /></a>
 </p>
-<br/>
+
+<div align="center">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="800">
+</div>
+
 <br/>
 
 ## <p align="center"> About⚓ Me </p>
@@ -110,6 +114,7 @@
 
 ### <div align="center"> [![Moon.svg](https://moon-svg.minung.dev/moon.svg?theme=ray&rotate=0)](https://moon-svg.minung.dev) </div>
 
+<div align="center">
 <br clear="both">
 
  <source
@@ -123,7 +128,8 @@
  <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
- /> 
+ />
+ </div>
   
 ###
 
